@@ -44,15 +44,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "shubham797@gmail.com"
   # facebook: deanattali
+  linkedin: shubham-singh-paliwal-043812a6
+  google-scholar: citations?user=ug_alyQAAAAJ&hl=en
   github: shubham797
+  email: "shubham797@gmail.com"
   # twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
   # medium: shubham797
 #  reddit: yourname
-  linkedin: shubham-singh-paliwal-043812a6
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -66,7 +67,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: citations?user=ug_alyQAAAAJ&hl=en
+
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -98,7 +99,7 @@ feed_show_tags: true
 post_search: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "my,list,of,keywords"
 
 # --- Colours / background image --- #
 
