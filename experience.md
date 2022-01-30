@@ -8,17 +8,18 @@ subtitle: ''
 #### **Tata Consultancy Services - Research, New Delhi, India**
 #### _July 2021 - Present_
 
-**Technology:** A Jain, SS Paliwal <br>
-**Research:** Poster Presentation at European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, (ESANN 2021), Bruges, Belgium
-<br><br>
+**[DeepReader](https://www.tcs.com/bridging-the-human-machine-divide) | Medical Imaging | POCs** <br>
+<br>
+<br>
+<br>
 
 ### AI/ML Researcher (Systems Engineer)
 #### **Tata Consultancy Services - Research, New Delhi, India**
 #### _August 2018 - June 2021_
 
-**OSSR-PID: One-Shot Symbol Recognition in P&ID Sheets using Path Sampling and GCN** <br>
-_SS Paliwal, M Sharma, L Vig_ <br>
-Poster Presentation at International Joint Conference on Neural Networks, (IJCNN 2021), Shenzhen, China (**Virtual**)<br>
+**[DeepReader](https://www.tcs.com/bridging-the-human-machine-divide) | POCs** <br>
+<br>
+<br>
 <br>
 
 ### Teaching Assistant
