@@ -4,7 +4,7 @@ title: About me
 subtitle:
 ---
 
-I hail from an unpretentious industrial town of Uttar Pradesh, Renukoot. Very few people knows about this place, which can be one possible reason why its so beautifull apart from nice people living here.
+I hail from an unpretentious industrial town of Uttar Pradesh, Renukoot. Very few people know about this place, which can be one possible reason why its so beautifull apart from nice people living here.
 
 My bachelor’s and master’s degrees are from Indian Institute of Information Technology, Allahabad where I was working on mobile robots under guidance of my supervisior, Prof. [Dr. Rahul Kala](http://rkala.in/), who thankfully introduced me to computer vision and its applications in real world.
 
