@@ -18,7 +18,7 @@ navbar-links:
   Skills: "skills"
   Experience: "experience"
   Research: "research"
-  Resume:  "" #"https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR"
+  Resume:  "https://drive.google.com/file/d/19E9euWq-jnVODg-MFy7iV_ZYgxr3YuiF/view?usp=sharing" #"https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR"
   Gallery: "gallery"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
