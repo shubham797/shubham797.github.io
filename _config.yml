@@ -19,7 +19,7 @@ navbar-links:
   Experience: "experience"
   Research: "research"
   Resume:  "https://drive.google.com/file/d/19E9euWq-jnVODg-MFy7iV_ZYgxr3YuiF/view?usp=sharing" #"https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR"
-  Gallery: "gallery"
+  Gallery: "" # gallery
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -121,7 +121,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/assets/img/bgimage.png"
 footer-img: "/assets/img/bgimage.png"
-# page-img: "/assets/img/123.jpg"
+# page-img: "/assets/img/bgimage.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"

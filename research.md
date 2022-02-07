@@ -49,3 +49,12 @@ Published in Robotica, 36(6), 882-903.[[Link](http://www.rkala.in/papers/robotic
 **Systems and methods for automating information extraction from piping and instrumentation diagrams - 2020** <br>
 _SS Paliwal, R Rahul, M Sharma, L Vig_ <br>
 US Patent App. 16/381,316, 2020[[Link](https://patents.google.com/patent/US20200175372A1/en)]
+
+**Deep Learning based Table detection & Associated data extraction from Scanned Image documents - 2020** <br>
+_SS Paliwal, R Rahul, Vishwanath D, M Sharma, L Vig_ <br>
+Filed, not yet published[[Link](https://patents.google.com/patent/WO2021053687A1/)]
+
+
+**Symbol Recognition from Raster Images of P&IDs using Single Instance per Symbol Class - 2021** <br>
+_SS Paliwal, M Sharma, L Vig_ <br>
+Filed, not yet public
