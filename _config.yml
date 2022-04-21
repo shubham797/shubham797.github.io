@@ -18,8 +18,8 @@ navbar-links:
   Skills: "skills"
   Experience: "experience"
   Research: "research"
-  Resume:  "https://drive.google.com/file/d/19E9euWq-jnVODg-MFy7iV_ZYgxr3YuiF/view?usp=sharing" #"https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR"
-  Gallery: "" # gallery
+  Resume:  "https://drive.google.com/file/d/1Gs8iFL-CCJ_K0r13O-a_ga82ci89om0B/view?usp=sharing" #"https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR"
+  Gallery: "" #"gallery"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -49,7 +49,7 @@ social-network-links:
   google-scholar: citations?user=ug_alyQAAAAJ&hl=en
   github: shubham797
   email: "shubham797@gmail.com"
-  # twitter: daattali
+  twitter: shubham7971
 #  patreon: DeanAttali
 #  youtube: c/daattali
   # medium: shubham797
@@ -99,7 +99,7 @@ feed_show_tags: true
 post_search: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "my,list,of,keywords"
+keywords: "TCS, deep learning, researcher, machine learning engineer, document, ai, ml"
 
 # --- Colours / background image --- #
 
